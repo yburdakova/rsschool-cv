@@ -1,12 +1,15 @@
-1. First Name, Last Name (real ones)
-2. Contact Info (add several ways to contact you)
-3. Summary (your goal, wishes, reveal what is important for you, what do you want and why.
-Some kind of self-presentation. In case of lack of experience  Junior Developer sells his/her potential, his/her passion and ability to learn fast. You shouldn't think that everybody is going to teach you when you come to the workplace . Rather being a Junior means always
-learning new things from everywhere etc.).
-4. Skills (e.g. programming languages, frameworks, methodologies, version control, tools etc.)
-5. Code examples (LATEST)
-6. Experience (for a Junior Dev it means all kinds of experience: coding tests, projects from courses,
-freelance projects - wherever they had the opportunity to demonstrate skills they have.
-Also it would be awesome if you add links to source code)
-7. Education (including courses, seminars, lectures, online learning)
-8. English (elaborate on what kind of practice you had, if any, how long it lasted and so on)
+#Yana Burdakova
+[info@burdakova.com](mailto:info@burdakova.com)
+2. Screenshot: 
+<img width="1066" alt="Screen Shot 2023-11-05 at 17 39 17" src="https://github.com/yburdakova/RS-react/assets/96587202/37178726-cad6-4f87-8c8f-5c03e56996bc">
+
+4. Deploy: [link](https://6552e8dd30dbfc0668bb6e67--aesthetic-alpaca-12d524.netlify.app/)
+5. Done 12.11.2023 / deadline 12.11.2023
+6. Score: 100 / 100
+  - [x] Custom state management using the Context API is implemented - ( 5/5 )
+  - [x] The Search component value is stored in the context - ( 5/5 )
+  - [x] The list of items received from the API is stored in the context -( 5/5 )
+  - [x] The context is used in components that need access to the data - ( 5/5 ) 
+  - [x] React Testing Library and Jest are added and configured - ( 10/10 ) 
+  - [x] Test cases - ( 60/60 )  
+  - [x] Husky runs tests on pre-push - ( 10/10  )
