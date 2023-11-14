@@ -13,4 +13,9 @@
 5. Code examples:
   + [Hotel website](https://github.com/yburdakova/hotel-olimp)
   + [Designer portfolio](https://github.com/yburdakova/julimagine)
+6. Experience:
+  + Freelance project: Fullstack multilingual hotel website project , featuring integrated reservation functionality and administrator dashboard.
+  + Freelance project: Fullstack multi-page iOS Developer web portfolio with 3D elements and animation added to enhance the design.
+  + Freelance project: Full stack website: UI/UX design, front-end and back-end development. Adaptive landing page with css-animation.
+  + Frontend menthor Task: Responsive web-app based on customer design layout with extreme attention to UI/UX details. This uses the web API. Customization of fonts and color themes are available.
 
