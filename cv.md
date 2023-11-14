@@ -15,18 +15,11 @@
   + [Hotel website](https://github.com/yburdakova/hotel-olimp)
   + [Designer portfolio](https://github.com/yburdakova/julimagine)
  ## Experience:
-  + Freelance project Hotel web-site:
-    Fullstack multilingual hotel website project , featuring integrated reservation functionality and administrator dashboard.
-    [link] (https://github.com/yburdakova/hotel-olimp)
-  + Freelance project 3D-Portfolio:
-    Fullstack multi-page iOS Developer web portfolio with 3D elements and animation added to enhance the design.
-    [link] (https://github.com/yburdakova/3D_portfolio)
-  + Freelance project OCM-group:
-    Full stack website: UI/UX design, front-end and back-end development. Adaptive landing page with css-animation.
-    [link] (https://github.com/yburdakova/ocmgroup)
-  + **Frontend menthor Task:**
-    Responsive web-app based on customer design layout with extreme attention to UI/UX details. This uses the web API. Customization of fonts and color themes are available.
-    [link] (https://github.com/yburdakova/my-dictionary)
+  + **[Freelance project Hotel web-site](https://github.com/yburdakova/hotel-olimp)**: Fullstack multilingual hotel website project , featuring integrated reservation functionality and administrator dashboard.
+  + **[Freelance project 3D-Portfolio](https://github.com/yburdakova/3D_portfolio)**: Fullstack multi-page iOS Developer web portfolio with 3D elements and animation added to enhance the design.
+  + **[Freelance project OCM-group](https://github.com/yburdakova/ocmgroup)**: Full stack website: UI/UX design, front-end and back-end development. Adaptive landing page with css-animation.
+  + **[Frontend menthor Task] (https://github.com/yburdakova/my-dictionary)**:Responsive web-app based on customer design layout with extreme attention to UI/UX details. This uses the web API. Customization of fonts and color themes are available.
+   
  ## Education:
   + MS od psychology
   + Udemy Figma 2023
@@ -39,4 +32,5 @@
   + Youtube @UlbiTV
  ## English:
     **Advanced level.** I've been living in an English-speaking country for over a year and am studying English intensively
+    
 
