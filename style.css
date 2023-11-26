@@ -1,3 +1,42 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    min-width: 320px;
+    min-height: 100vh;
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 1.5;
+}
+
+.container{
+    max-width: 1200px;
+    margin: 0 auto;
+    min-height: 50px;
+}
+
 .title {
     font-size: 22px;
+    text-transform: capitalize ;
+}
+
+header{
+    display: flex;
+}
+
+nav > ul {
+    display: flex;
+}
+
+nav > ul > li {
+    list-style: none;
+    
+}
+
+footer div{
+    display: flex;
+    justify-content: space-between;
 }
