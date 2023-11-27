@@ -1,2 +1,4 @@
-# rsschool-cv
-CV(markdown)
+# CV
+# Yana Burdakova
+[resume](https://yburdakova.github.io/rsschool-cv/)
+
