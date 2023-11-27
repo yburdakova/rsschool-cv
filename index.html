@@ -24,28 +24,28 @@
                 <nav>
                     <ul>
                         <li>
-                            <a href="#about">About</a>
+                            <a href="#about" class="nav-link">About</a>
                         </li>
                         <li>
-                            <a href="#contacts">Contacts</a>
+                            <a href="#contacts" class="nav-link">Contacts</a>
                         </li>
                         <li>
-                            <a href="#summary">Summary</a>
+                            <a href="#summary" class="nav-link">Summary</a>
                         </li>
                         <li>
-                            <a href="#skills">Skills</a>
+                            <a href="#skills" class="nav-link">Skills</a>
                         </li>
                         <li>
-                            <a href="#code">Code</a>
+                            <a href="#code" class="nav-link">Code</a>
                         </li>
                         <li>
-                            <a href="#projects">Projects</a>
+                            <a href="#projects" class="nav-link">Projects</a>
                         </li>
                         <li>
-                            <a href="#education">Education</a>
+                            <a href="#education" class="nav-link">Education</a>
                         </li>
                         <li>
-                            <a href="#english">English</a>
+                            <a href="#english" class="nav-link">English</a>
                         </li>
                     </ul>
                 </nav>
@@ -83,10 +83,18 @@
                 </section>
                 <section id="code">
                     <h2>Code examples</h2>
-                    <pre class="pre">
+                    <div class=""><strong>Diff Two Arrays : </strong><em>Compare two arrays and return a new array with any items only found in one of the two given arrays, but not both. In other words, return the symmetric difference of the two arrays.</em></div>
+                    <pre class="pre" >
                         <code>
-                            console.log("Hello, world!");
+    function diffArray(arr1, arr2) {
+        return arr1
+            .concat(arr2)
+            .filter(item => !arr1.includes(item) || !arr2.includes(item));
+    }
+        
+    diffArray([1, 2, 3, 5], [1, 2, 3, 4, 5]);
                         </code>
+                        
                     </pre>
                 </section>
                 <section id="projects">
@@ -126,7 +134,9 @@
                 </section>
                 <section id="english">
                     <h2>English level</h2>
-                    <li>C1 - Advanced</li>
+                    <ul>
+                        <li class="english-item">C1 - Advanced</li>
+                    </ul>
                 </section>
             </div>
 

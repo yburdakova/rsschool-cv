@@ -47,11 +47,43 @@ nav ul {
     justify-content: space-between;
 }
 
-nav > ul > li {
+nav > ul > li, .english-item {
     list-style: none;
 }
+
+nav > ul > li:hover{
+
+}
+
 nav > ul > li > a{
     text-transform: uppercase;
+    text-decoration: none;
+    position: relative;
+}
+
+.nav-link::after {
+    content: "";
+    position: absolute;
+    left: 12px;
+    bottom: -5px;
+    width: calc(100% - 24px);
+    height: 2px;
+    background-color: #fff;
+    opacity: 0;
+    transition: all 0.3s ease 0s;
+}
+.nav-link:hover::after {
+    opacity: 1;
+    animation-name: slidein;
+    animation-duration: 1s;
+    animation-fill-mode: forwards;
+}
+
+li {
+    list-style-type: "\2714";
+    padding-left: 10px;
+    transition: all 0.3s ease 0s;
+
 }
 
 
