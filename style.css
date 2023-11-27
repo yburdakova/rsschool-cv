@@ -51,10 +51,6 @@ nav > ul > li, .english-item {
     list-style: none;
 }
 
-nav > ul > li:hover{
-
-}
-
 nav > ul > li > a{
     text-transform: uppercase;
     text-decoration: none;
