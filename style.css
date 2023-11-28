@@ -85,7 +85,7 @@ main{
     position: relative;
 }
 
-.ancher{
+.anchor{
     position: fixed;
     width: 60px;
     height: 60px;
@@ -98,7 +98,7 @@ main{
     filter: drop-shadow(0px 1px 3px rgba(255, 255, 255, 0.98));
 }
 
-.ancher::before{
+.anchor::before{
     content: "\21E7";
     position: absolute;
     color: white;
@@ -107,7 +107,7 @@ main{
     left: 15px;
     transition: all 0.3s ease 0s;
 }
-.ancher:hover::before{
+.anchor:hover::before{
     top: 8px;
 }
 
